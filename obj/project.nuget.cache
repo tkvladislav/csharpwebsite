@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "uQkIw1Du24mjszJgehcRj3dHcDrypxGwSaJ7j4jQKwxiIned7n446L/FzwZGk+xCF5ynydPeA0Ewo4TqlOsVYw==",
+  "success": true,
+  "projectFilePath": "/Users/vlad/Projects/newProj/newProj/newProj.csproj",
+  "expectedPackageFiles": [
+    "/Users/vlad/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/mailkit/4.2.0/mailkit.4.2.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/mimekit/4.2.0/mimekit.4.2.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/serilog/3.0.1/serilog.3.0.1.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.formats.asn1/7.0.0/system.formats.asn1.7.0.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.security.cryptography.cng/5.0.0/system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.security.cryptography.pkcs/7.0.2/system.security.cryptography.pkcs.7.0.2.nupkg.sha512",
+    "/Users/vlad/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
